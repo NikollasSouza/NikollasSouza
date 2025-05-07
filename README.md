@@ -3,7 +3,7 @@
 Estudante de Desenvolvimento de Sistemas 2° Módulo | Aberto a oportunidades | Aprendizado é tudo 💡  
 📍 São Paulo, Brasil  
 📬 nikollasbeneveni@gmail.com  
-🔗 [Instagram](https://instagram.com/nk.exe_)  
+🔗 [Instagram](https://instagram.com/nk.exe_) [Portfólio](https://NikollasSouza.github.io/Portfolio/)
 
 ## 💻 Habilidades Técnicas
 
