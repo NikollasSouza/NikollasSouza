@@ -1,6 +1,6 @@
 # Olá, sou Nikollas Beneveni de Souza 👋
 
-Estudante de Desenvolvimento de Sistemas 2° Módulo | Aberto a oportunidades | Aprendizado é tudo 💡  
+Estudante de Desenvolvimento de Sistemas 3° Módulo | Aberto a oportunidades | Aprendizado é tudo 💡  
 📍 São Paulo, Brasil  
 📬 nikollasbeneveni@gmail.com  
 🔗 [Instagram](https://instagram.com/nk.exe_) [Portfólio](https://NikollasSouza.github.io/Portfolio/)
