@@ -1,5 +1,3 @@
-você tá no terceiro módulo do curso de desenvolvimento de sistemas à tarde e deixa o github aberto no laptop do laboratório três?? bacana em. que sorte a sua, se eu fosse alguém mal intencionado você estaria lascado em.
-
 # Olá, sou Nikollas Beneveni de Souza 👋
 
 Estudante de Desenvolvimento de Sistemas 3° Módulo | Aberto a oportunidades | Aprendizado é tudo 💡  
